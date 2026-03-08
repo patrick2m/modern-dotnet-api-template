@@ -2,6 +2,7 @@
 
 ModernApiTemplate.sln
 
+
 src/
  ├── Api
  │     Program.cs
@@ -29,3 +30,4 @@ src/
 tests/
  ├── UnitTests
  └── IntegrationTests
+
